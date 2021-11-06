@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
-<h3 align="center">videogames player & tester, coffee lover & enthusiastic web developer~</h3>
+<h3 align="center">videogames player & QA tester, coffee lover & occasional web developer~</h3>
 
 - 🔭 I’m currently working on **a project involving dogs, Ruby & React!**
 
