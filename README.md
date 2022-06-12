@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
-<h3 align="center">videogames player & QA tester, coffee lover & web developer~</h3>
+<h3 align="center">jack of all trades, videogames player & occasional web developer~</h3>
 
 - 👨‍💻 All of my projects are available at [chiaracampalani.me](chiaracampalani.me)
 
