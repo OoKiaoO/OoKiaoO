@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **you name it!**
 
-- 👨‍💻 All of my projects are available at [chiaracampalani.me](chiaracampalani.me)
+<!-- - 👨‍💻 All of my projects are available at [chiaracampalani.me](chiaracampalani.me) -->
 
 - 📫 How to reach me **chiara.campalani@yahoo.com**
 
