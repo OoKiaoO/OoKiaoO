@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
-<h3 align="center">jack of all trades🃏, videogames player🎮 & occasional web developer🤓</h3>
+<h3 align="center">videogames player🎮 & occasional web developer🤓</h3>
 
 - 🔭 I’m currently working on **an inventory manager to efficiently organise products with exp. dates**
 
