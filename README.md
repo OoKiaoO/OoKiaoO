@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
 <h3 align="center">videogames player🎮 & occasional web developer🤓</h3>
 
-- 🔭 I’m currently working on **an inventory manager to efficiently organise products with exp. dates**
+- 🔭 I’m currently working on **an inventory manager to efficiently track products with exp. dates**
 
-- 🌱 I’m currently learning **browser automation with Puppeteer & Node!**
+- 🌱 I’m currently learning **the basics and foundations of Project Management**
 
-- 👯 I’m looking to collaborate on **you name it!**
+<!--- 👯 I’m looking to collaborate on **you name it!** -->
 
 <!-- - 👨‍💻 All of my projects are available at [chiaracampalani.me](chiaracampalani.me) -->
 
