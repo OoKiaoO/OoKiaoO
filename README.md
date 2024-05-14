@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
 <h3 align="center">aspiring project manager📊 videogames player🎮 & occasional web developer🤓</h3>
 
-- 🔭 I’m currently working on **an inventory manager to efficiently track products with exp. dates**
+- 🔭 I’m currently working on **migrating an inventory manager app from an older RoR version to the latest**
 
-- 🌱 I’m currently learning **the basics and foundations of Project Management**
+- 🌱 I’m currently brushing up on **React basics and hooks**
 
 <!--- 👯 I’m looking to collaborate on **you name it!** -->
 
