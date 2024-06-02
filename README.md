@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiara</h1>
-<h3 align="center">aspiring project manager📊 videogames player🎮 & occasional web developer🤓</h3>
+<h3 align="center">videogames player🎮 & occasional web developer🤓</h3>
 
 - 🔭 I’m currently working on **migrating an inventory manager app from an older RoR version to the latest**
 
